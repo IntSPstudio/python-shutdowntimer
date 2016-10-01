@@ -1,2 +1,2 @@
-# python-shutdowntimer
+#Shutdown timer
 Computer shutdowntimer
