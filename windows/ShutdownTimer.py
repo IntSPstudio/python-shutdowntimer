@@ -2,7 +2,7 @@
 # Made by IntSPstudio
 # Shutdown Timer
 # Thank you for using this software!
-# Version: 1.0.1.20161001
+# Version: 1.0.1.20161103
 # ID: 980002001
 #
 # Twitter: @IntSPstudio
@@ -14,7 +14,7 @@ import sys
 import time
 
 #CMD COLOR
-os.system("color a")
+#os.system("color a")
 
 #BACKGROUND
 bgdline = "----------------------------------------------------------------"
