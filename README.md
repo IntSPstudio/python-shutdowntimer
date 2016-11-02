@@ -1,4 +1,4 @@
 #Shutdown timer
 Computer shutdowntimer
 
-Latest version: 1.0.1.20161001
+Latest version: 1.0.1.20161103
